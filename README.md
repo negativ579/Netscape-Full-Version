@@ -237,4 +237,4 @@ This repository serves as the official landing page for Netscape. The software i
 **Get the most recent version of Netscape today!**
 
 ---
-**Last updated:** 2026-10-01 09:32:55 UTC
+**Last updated:** 2026-10-01 16:46:00 UTC
